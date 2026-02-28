@@ -1,14 +1,15 @@
-body {
-  background-color: skyblue;
+h1 {
+  background-color: violet;
+  text-align: center;
 }
 
 p {
-  font-family: verdana;
-  font-size: 20px;
+  text-align: center;
+  color: green;
 }
 
-div {
-  background-color: lightblue;
+body {
+  background-color: yellow;
 }
 
 .imgMain {
